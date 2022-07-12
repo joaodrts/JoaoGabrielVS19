@@ -8,9 +8,8 @@
 JoaoGabrielVS19/JoaoGabrielVS19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a id="linkedin-share-btt" class="linkedin-share-button" href="https://www.linkedin.com/in/joaogabrielduarte/">
-  <button >Linkedin</button>
-</a>
+
+<a href="https://www.linkedin.com/in/joaogabrielduarte/" id="linkedin-share-btt" rel="nofollow" target="_blank" class="linkedin-share-button"></a>
 
 .linkedin-share-button{
     display: inline-block;            
