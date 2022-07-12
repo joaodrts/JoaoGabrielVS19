@@ -9,35 +9,6 @@ JoaoGabrielVS19/JoaoGabrielVS19 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JoaoGabrielVS19 
-BlogCyberini
-/
-WebShareButton
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-WebShareButton/LinkedIn/linkedin-share-button.html
-@HenriqueIni
-HenriqueIni Update linkedin-share-button.html
-Latest commit b375334 on 20 Jun 2018
- History
- 1 contributor
-56 lines (51 sloc)  4.75 KB
-
 <!DOCTYPE html>
 <!--
 GitHub: HenriqueIni
@@ -94,18 +65,3 @@ https://www.blogcyberini.com/
 </body>
 
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
